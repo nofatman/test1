@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Agc Vercel",
-  tagline: "Free Download Image",
-  description: "Agc is a website auto generate contents.",
+  title: "Info Market",
+  tagline: "Free and best info market",
+  description: "Free and best info market",
   keywords: "cdom,cdom agc,cdom blog",
   author: "cDOM",
   favicon: "https://pugjs.org/images/favicon.ico",
